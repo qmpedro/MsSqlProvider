@@ -1,4 +1,4 @@
-msul
+MSUL
 ====
 
-Microsoft Sql Ultra Lite
+Microsoft Sql Ultra Lite IDE
