@@ -1,3 +1,3 @@
-Microsoft Sql Server Ultra Lite IDE
+Microsoft SQL Server Ultra Lite IDE
 ====
 msul.py
